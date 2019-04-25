@@ -18,7 +18,7 @@ sonar.projectVersion=1.0
 
 sonar.sources=.
 
-Payal-Setiya
+
 
 
 to choose which java to select from istalled version :sudo alternatives --config java
